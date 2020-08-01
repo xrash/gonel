@@ -2,11 +2,13 @@
 
 ## How to install
 
+> Warning: you need `goimports` installed.
+
 ```bash
 $ git clone https://github.com/xrash/gonel.git
 $ cd gonel
 $ make
-$ cp bin/gonel /usr/local/bin
+$ sudo cp bin/gonel /usr/local/bin
 ```
 
 ## Usage
