@@ -19,7 +19,7 @@ Usage:
 
   Flags:
     -h, --help                 help for gonel
-	-i, --import stringArray   package name to import
+    -i, --import stringArray   package name to import
 ```
 
 ## Examples
