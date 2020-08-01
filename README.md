@@ -42,7 +42,7 @@ $ gonel 'fmt.Println(123)
 
 ## More information
 
-1. You must have goimports installed in your machine.
+1. You must have `goimports` installed in your machine.
 
 2. `gonel` will automatically import your packages using `goimports`, so you can write code as if you were inside `main()` with everything set up already.
 
