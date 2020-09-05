@@ -1,3 +1,5 @@
+* master: [![Build Status](https://travis-ci.org/xrash/gonel.svg?branch=master)](http://travis-ci.org/xrash/gonel)
+
 # gonel
 
 ## How to install
