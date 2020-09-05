@@ -8,7 +8,7 @@ run : build
 
 .PHONY : test
 test :
-	cd pkg/runner && go test
+	go test ./...
 
 .PHONY : install
 install : 
