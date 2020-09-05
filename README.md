@@ -29,11 +29,15 @@ Usage:
 ```bash
 $ gonel "fmt.Println(123)"
 123
+```
 
+```bash
 $ gonel "fmt.Println(333)" "fmt.Println(999)"
 333
 999
-	
+```
+
+```bash
 $ gonel 'fmt.Println(123)
 > fmt.Println(333)
 > fmt.Println(999)'
