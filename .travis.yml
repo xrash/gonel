@@ -4,5 +4,7 @@ go:
     - 1.14
     - 1.15.x
     - master
+before_install:
+    - go get golang.org/x/tools/cmd/goimports
 script:
     - make test
