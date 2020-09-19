@@ -6,6 +6,14 @@
 
 > Warning: you need `goimports` installed.
 
+Using `go get`:
+
+```bash
+go get github.com/xrash/gonel/cmd/gonel
+```
+
+Manually compiling:
+
 ```bash
 $ git clone https://github.com/xrash/gonel.git
 $ cd gonel
